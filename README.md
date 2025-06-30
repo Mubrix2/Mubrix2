@@ -26,5 +26,5 @@ I'm an aspiring Data Scientist passionate about using Python and data visualizat
 ---
 
 ### 📫 Let’s Connect
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/mubarak-oladipo)
+- **LinkedIn:** [linkedin.com/in/mubarak-oladipo](https://www.linkedin.com/in/mubarak-oladipo)
 - **Email:** oladipomubarak2017@gmail.com
