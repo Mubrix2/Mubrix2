@@ -13,7 +13,8 @@ Workflow Tools: Jupyter Notebook, Google Colab, Git, GitHub, VS Code
 
 🚀 Projects
 
-🩺 Diabetes Prediction App – Built and deployed a FastAPI-powered ML model to predict diabetes risk.
+🩺 Diabetes Prediction App – Built and deployed a FastAPI-powered ML model to predict diabetes risk. 
+
 📊 Data Cleaning & EDA Projects – Conducted exploratory analysis and feature transformation on medical datasets.
 
 
