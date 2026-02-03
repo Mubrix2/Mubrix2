@@ -1,22 +1,24 @@
-👋 Hi, I'm Mubarak Oladipo (Mubrix2)
+# 👋 Hi, I'm Mubarak Oladipo (Mubrix2)
 
-I’m an aspiring Data Scientist passionate about solving real-world problems with Python, data visualization, and machine learning. I specialize in turning raw data into actionable insights through data preprocessing, transformation, and exploratory analysis. Currently, I’m building ML models and deploying them with FastAPI and Streamlit to create impactful, user-friendly applications.
+**AI & Agentic Systems Engineer | Data Scientist**
 
+I specialize in building **Agentic RAG (Retrieval-Augmented Generation)** systems and scalable AI applications. My focus is on moving beyond static models to create autonomous multi-agent workflows that solve complex research and data problems. I bridge the gap between raw data and production-ready AI services using **Python**, **Microsoft AutoGen**, and **FastAPI**.
 
-🔧 Skills
-Programming & Concepts: Python, OOP, EDA, Machine Learning (Classification, Regression, Model Evaluation)
-Data Tools: NumPy, Pandas, Matplotlib, Seaborn
-ML & Deployment: Scikit-Learn, FastAPI, Streamlit
-Data Tasks: Cleaning, Feature Engineering, Handling Imbalanced Data (SMOTE)
-Workflow Tools: Jupyter Notebook, Google Colab, Git, GitHub, VS Code
+### 🛠️ Technical Arsenal
 
+* **AI & Agents:** Microsoft AutoGen, Multi-Agent Orchestration, Prompt Engineering.
+* **LLM Ops & RAG:** LangChain, Vector Databases (ChromaDB), Document Ingestion Pipelines.
+* **Machine Learning:** Scikit-Learn, Regression, Classification, Feature Engineering (SMOTE).
+* **Backend & Deployment:** FastAPI, Streamlit, Docker, Docker Compose, RESTful APIs.
+* **Data Science:** Pandas, NumPy, Exploratory Data Analysis (EDA), Matplotlib/Seaborn.
 
-🚀 Projects
+### 🌟 Featured Project: Enterprise Research Agent
 
-🩺 Diabetes Prediction App – Built and deployed a FastAPI-powered ML model to predict diabetes risk. 
+Built a fully containerized **Multi-Agent RAG platform** using Microsoft AutoGen.
 
-📊 Data Cleaning & EDA Projects – Conducted exploratory analysis and feature transformation on medical datasets.
-
+* **Orchestration:** Integrated a "Researcher" and "UserProxy" agent to autonomously query knowledge bases.
+* **Pipeline:** Developed a complete ingestion engine for PDF-to-Vector transformation.
+* **Architecture:** Decoupled FastAPI backend and Streamlit frontend served via Docker Compose.
 
 
 📫 Let’s Connect
