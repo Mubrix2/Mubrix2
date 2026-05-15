@@ -28,7 +28,6 @@ my portfolio is fully deployed with real infrastructure.
 | [AI Customer Support Agent](https://github.com/Mubrix2/ai-customer-support-agent) | Multi-turn agent that checks orders, logs complaints, escalates | LangGraph · FastAPI · SQLite |
 | [AI Lead Qualification Pipeline](https://github.com/Mubrix2/ai-lead-qualification-pipeline) | Scores incoming leads with AI, saves to CRM, alerts sales team on Slack | n8n · FastAPI · Groq · Airtable · Slack |
 | [Document Intelligence RAG](https://github.com/Mubrix2/doc-intelligence-rag) | Upload PDFs, ask questions, get cited answers | FastAPI · Qdrant · Groq · Streamlit |
-| [AI Appointment Setter](https://github.com/Mubrix2/ai-appointment-setter) | Conversational agent that qualifies visitors and books appointments automatically | LangGraph · FastAPI · Cal.com · n8n · Groq |
 | [Data Extraction Pipeline](https://github.com/Mubrix2/data-extraction-pipeline) | Extract structured JSON from any unstructured text or document | Instructor · Pydantic · FastAPI |
 | [Content Generation Pipeline](https://github.com/Mubrix2/content-generation-pipeline) | One topic → blog post + captions + email | Prompt chaining · FastAPI · Streamlit |
 
